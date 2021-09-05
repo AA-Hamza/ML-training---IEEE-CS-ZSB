@@ -16,6 +16,9 @@ Your dataset is in this folder, named dataset.csv
 
 
 \*You don't need to train a model or anything just pure math.
+
 \*Your output should be theta0 and theta1, and a plot of the model.
+
 \*You should only use python standard library except matplotlib.
+
 \*If you find anything hard, you can revise the video associated with it in the course, then in Discord.
