@@ -1,7 +1,5 @@
 # Implement simple gradient descent for linear regression.
-
 ## You will have a simple dataset containing 20 (x, y) points, you should implement a simple gradient decent in Python to calculate best fit for the hypnosis function. These examples are taken from Week 1 in Machine Learning course by Andrew Ng.
-
 
 **Your dataset is in this folder, named dataset.csv**
 
